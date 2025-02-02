@@ -1,1 +1,14 @@
-.DS_Store
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore environment files
+.env
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore React build files
+frontend/node_modules/
+frontend/build/
