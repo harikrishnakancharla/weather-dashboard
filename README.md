@@ -12,6 +12,7 @@ weather-dashboard/
 │   │   └── helpers.py     # Helper functions
 │   └── routes/            # Modular routes
 │       └── weather_routes.py # Weather-related routes
+
 ├── frontend/              # Frontend folder (React app)
 │   ├── src/               # React source code
 │   │   ├── components/    # Reusable components
